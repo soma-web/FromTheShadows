@@ -24,7 +24,13 @@ Wir haben einen neuen Praktikanten. Ein ziemliches Arschloch!
 Meine anfänglichen Bedenken gegenüber unseres neuen Praktikanten sind unbegründet. Er ist kein Arschloch, vielleicht ist er die Antwort. Der EINE.
 
 21. Februar 2018
+<temporal merge conflict>
+<<<<<<< HEAD:Tagebuch.txt
 Sie haben mich. Ich finde keinen Ausweg aus diesem Raum. Ich habe versagt. Die Welt wird mir hoffentlich vergeben. Es wird so kalt.
+=======
+Was ist passiert? Sie hätten mich einfangen sollen! Es scheint jemand anderes erwischt zu haben. Wer immer das liest: BH-BELEGE 02/2014 
+>>>>>>> 77976da35a11db4580b80ae27e8d65caf5208086:Tagebuch.txt
+</temporal merge conflict>
 
 2.August 2019
 Puh, das war knapp, nach 2 Jahren habe ich endlich den Schlüssel gefunden. Aber es ist zu spät, die Welt ist verloren. 
